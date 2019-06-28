@@ -1,0 +1,260 @@
+body
+{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #e0ebe8 ;
+    color: #45b29a;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+
+
+.list
+{
+    float: right;
+    list-style: none;
+    margin-right: 90px;
+    margin-top: 9px;
+    font-size: 11px;
+}
+.items
+{
+    padding: 10px;
+    float: left;
+}
+#land
+{
+    margin-left: 155px;
+    margin-top: 175px;
+    height: 145px
+}
+#cloud2
+{
+    
+    position: absolute;
+    height: 30px;
+    top:108px;
+    left: 500px;
+  
+}
+#cloud1
+{
+    position: absolute;
+    height: 30px;
+    top:200px;
+    left: 60px;
+   
+    
+    
+}
+#me
+{
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.name
+{
+    position: absolute;
+    font-size: 50px;
+    left:270px;
+    top:80px;
+    font-family: 'Times New Roman';
+}
+.description
+{
+    font-size: 11px;
+    position: absolute;
+    left:313px;
+    top:133px;
+}
+
+.part2
+{
+    background-color: white;
+    width: 100%;
+    height: 950px;
+    margin: 0;
+    padding: 0;
+}
+.part2 #me1
+{
+    height: 80px;
+    position: relative;
+    left: 300px;
+    top:30px;
+    
+}
+.nav
+{
+   background: linear-gradient(rgba(248, 246, 246,0),rgba(248, 246, 246,0))
+   
+}
+.part2 .span1
+{
+    position: relative;
+    left:334px;
+    top:20px;
+}
+.part2 .para2
+{
+    width: 260px;
+    color: black;
+    position: relative;
+    top:10px;
+    left: 230px;
+    font-size: 12px;
+}
+.part2 #me2
+{
+    height: 80px;
+    position: relative;
+    top:70px;
+    left:150px;
+}
+.part2 #line1
+{
+    position: relative;
+    width: 30px;
+    left:150px;
+    top: 45px;
+   
+}
+.part2 #pencil
+{
+    border-radius: 50%;
+    position: relative;
+    height: 40px;
+    left: 150px;
+    top:54px;
+}
+.part2 .para3 .span1
+{
+    position: relative;
+    left: 250px;
+    font-size: 30px;
+    top:90px;
+    color: #1e836c;
+
+}
+.part2 .para3 .span2
+{
+    font-size: 20px;
+    position: relative;
+    left: 200px;
+    top:170px;
+}
+.para4
+{
+    width: 260px;
+    color: black;
+    font-size: 12px;
+    position: relative;
+    left: 394px;
+    top:160px;
+}
+.container2 #me3
+{
+    position: relative;
+    top:100px;
+    height: 80px;
+    left: 565px;
+}
+.container2 #line2
+{
+    position: relative;
+    top:77px;
+    left:445px;
+    width: 30px;
+}
+.container2 #pc
+{
+    border-radius: 50%;
+    height: 40px;
+    position: relative;
+    top:88px;
+    left:366px;
+}
+.container2 #span1
+{
+    font-size: 20px;
+    position: relative;
+    left:160px;
+    top:16px;
+    
+}
+.container2 .para2
+{
+    width: 260px;
+    color: black;
+    font-size: 12px;
+    position: relative;
+    bottom:16px;
+   left:160px;
+}
+
+.container2 .para1 #span1
+{
+    color:#45b29a;
+    font-size: 20px;
+    position: relative;
+    top:17px;
+    left:160px;
+}
+
+
+
+.container2 #lastline
+{
+    position: relative;
+    top:100px;
+    left:320px;
+    width: 30px;
+
+}
+
+.container2 #span1
+{
+    font-size: 30px;
+    position: relative;
+    top:120px;
+    left:268px;
+    color: #1e836c;
+
+}
+.container2 #span2
+{
+    font-size: 20px;
+    position: relative;
+    top:170px;
+    left:33px;
+}
+.container2 #para9
+{
+
+    color:black;
+    font-size: 12px;
+    width: 260px;
+    position: relative;
+    top:170px;
+    left:230px;
+}
+
+.part3
+{
+    font-size: 12px;
+    width: 100%;
+    height: 70px;  
+}
+
+a img
+{
+    
+    position: relative;
+    height: 20px;
+    top:50%;
+    left:250px;
+    padding-left: 30px; 
+   
+}
